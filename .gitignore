@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Credenciais
+.env
+.env.*
+!.env.example
+
+# Banco de dados
+*.db
+
+# Dados
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Power BI
+*.pbix
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db

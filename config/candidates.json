@@ -1,0 +1,139 @@
+[
+  {
+    "id": "lula",
+    "name": "Luiz Inácio Lula da Silva",
+    "display_name": "Lula",
+    "party": "PT",
+    "number": 13,
+    "aliases": [
+      "lula",
+      "luiz inacio lula da silva",
+      "luiz inácio lula da silva",
+      "presidente lula"
+    ]
+  },
+  {
+    "id": "flavio_bolsonaro",
+    "name": "Flávio Bolsonaro",
+    "display_name": "Flávio Bolsonaro",
+    "party": "PL",
+    "number": 22,
+    "aliases": [
+      "flavio bolsonaro",
+      "flávio bolsonaro",
+      "flavio",
+      "flávio"
+    ]
+  },
+  {
+    "id": "ronaldo_caiado",
+    "name": "Ronaldo Caiado",
+    "display_name": "Ronaldo Caiado",
+    "party": "PSD",
+    "number": 55,
+    "aliases": [
+      "ronaldo caiado",
+      "caiado"
+    ]
+  },
+  {
+    "id": "rui_costa_pimenta",
+    "name": "Rui Costa Pimenta",
+    "display_name": "Rui Costa Pimenta",
+    "party": "PCO",
+    "number": 29,
+    "aliases": [
+      "rui costa pimenta",
+      "rui costa"
+    ]
+  },
+  {
+    "id": "samara_martins",
+    "name": "Samara Martins",
+    "display_name": "Samara",
+    "party": "UP",
+    "number": 80,
+    "aliases": [
+      "samara martins",
+      "samara"
+    ]
+  },
+  {
+    "id": "romeu_zema",
+    "name": "Romeu Zema",
+    "display_name": "Romeu Zema",
+    "party": "NOVO",
+    "number": 30,
+    "aliases": [
+      "romeu zema",
+      "zema"
+    ]
+  },
+  {
+    "id": "hertz_dias",
+    "name": "Hertz Dias",
+    "display_name": "Hertz Dias",
+    "party": "PSTU",
+    "number": 16,
+    "aliases": [
+      "hertz dias",
+      "hertz"
+    ]
+  },
+  {
+    "id": "edmilson_costa",
+    "name": "Edmilson Costa",
+    "display_name": "Edmilson Costa",
+    "party": "PCB",
+    "number": 21,
+    "aliases": [
+      "edmilson costa",
+      "edmilson"
+    ]
+  },
+  {
+    "id": "renan_santos",
+    "name": "Renan Santos",
+    "display_name": "Renan Santos",
+    "party": "Missão",
+    "number": 14,
+    "aliases": [
+      "renan santos"
+    ]
+  },
+  {
+    "id": "wilson_grassi",
+    "name": "Wilson Grassi",
+    "display_name": "Wilson Grassi",
+    "party": "Democrata",
+    "number": 35,
+    "aliases": [
+      "wilson grassi",
+      "veterinario wilson grassi",
+      "veterinário wilson grassi"
+    ]
+  },
+  {
+    "id": "clariana_barao",
+    "name": "Clariana Barão",
+    "display_name": "Clariana Barão",
+    "party": "DC",
+    "number": 27,
+    "aliases": [
+      "clariana barao",
+      "clariana barão"
+    ]
+  },
+  {
+    "id": "augusto_cury",
+    "name": "Augusto Cury",
+    "display_name": "Augusto Cury",
+    "party": "Avante",
+    "number": 70,
+    "aliases": [
+      "augusto cury",
+      "escritor augusto cury",
+      "cury"
+    ]
+  }
+]
